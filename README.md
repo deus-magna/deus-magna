@@ -16,7 +16,7 @@ You can find me on [![Twitter](https://img.shields.io/twitter/follow/deus_magna?
 
 ## Show your support
 
-Give a ⭐️ if this project helped you!
+Give a ⭐️ if some project helped you!
 
 ## 📲 💻 🖥 My work
 
@@ -27,6 +27,11 @@ Give a ⭐️ if this project helped you!
 | [Peliculas-app](https://github.com/deus-magna/peliculas-app)      | [API Practice](https://github.com/deus-magna/restapi_practice) |
 | ----------- | ----------- |
 | <img src="assets/peliculas.jpg" width="250">    | <img src="assets/api_practice.png" width="250">       |
+
+| [Batman SigIn](https://github.com/deus-magna/batman_signin)      | [Comming soon](https://github.com/deus-magna/) |
+| ----------- | ----------- |
+| <img src="https://media.giphy.com/media/3wUWZLX6yLxs9ZpuFm/giphy.gif" width="250">    |        |
+
 <!--
 **deus-magna/deus-magna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

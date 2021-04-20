@@ -6,8 +6,20 @@ My name is Renato Montufar, I am a mobile developer, I love UI/UX and I am learn
 - [GitHub](https://github.com/deus-magna/)
 - [Twitter](https://twitter.com/deus_magna)
 - [Instagram](https://www.instagram.com/deus_magna/) 
+    
+## 👀 My GutHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deus-magna)](https://github.com/anuraghazra/github-readme-stats)
+<div style="align:center;" align="center">
+  <center>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=deus-magna&count_private=true&show_icons=true&theme=nord" />
+  </center>
+</div>
+&nbsp;&nbsp;
+<div style="align:center;" align="center">
+  <center>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deus-magna&layout=compact&langs_count=8&theme=nord" />
+  </center>
+</div>
 
 ## 🤝 Contributing
 

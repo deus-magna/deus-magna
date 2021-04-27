@@ -50,6 +50,10 @@ Give a ⭐️ if some project helped you!
 | ----------- | ----------- |
 | <img src="https://media.giphy.com/media/NwUarEu4NtVNRTRsUF/giphy.gif" width="250">    |   <img src="https://media.giphy.com/media/yiWCl9U98dMo9024bV/giphy.gif" width="250">     |
 
+| [Flutter Widgets](https://github.com/deus-magna/componentes)      | [Widget of the week](https://github.com/deus-magna/flutter-widget-of-the-week) |
+| ----------- | ----------- |
+| <img src="https://media.giphy.com/media/rU3WBlCe93JuzJNozS/giphy.gif" width="250">    |   <img src="https://media.giphy.com/media/hTBgJyKgn3Lsg840jy/giphy.gif" width="250">     |
+
 
 <!--
 **deus-magna/deus-magna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

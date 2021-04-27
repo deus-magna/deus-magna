@@ -42,9 +42,14 @@ Give a ⭐️ if some project helped you!
 | ----------- | ----------- |
 | <img src="assets/peliculas.jpg" width="250">    | <img src="assets/api_practice.png" width="250">       |
 
-| [Batman SigIn](https://github.com/deus-magna/batman_signin)      | [Comming soon](https://github.com/deus-magna/) |
+| [Batman SigIn](https://github.com/deus-magna/batman_signin)      | [Flutter Designs](https://github.com/deus-magna/flutter-designs) |
 | ----------- | ----------- |
-| <img src="https://media.giphy.com/media/3wUWZLX6yLxs9ZpuFm/giphy.gif" width="250">    |        |
+| <img src="https://media.giphy.com/media/3wUWZLX6yLxs9ZpuFm/giphy.gif" width="250">    |   <img src="https://res.cloudinary.com/rmontufar1792/image/upload/v1619558600/github/designs.png" width="250">     |
+
+| [Products App](https://github.com/deus-magna/flutter-products-app)      | [Flutter Skin Selector](https://github.com/deus-magna/flutter-skin-selector) |
+| ----------- | ----------- |
+| <img src="https://res.cloudinary.com/rmontufar1792/image/upload/v1619559122/github/products.png" width="250">    |   <img src="https://res.cloudinary.com/rmontufar1792/image/upload/v1619558600/github/designs.png" width="250">     |
+
 
 <!--
 **deus-magna/deus-magna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

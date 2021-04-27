@@ -46,9 +46,9 @@ Give a ⭐️ if some project helped you!
 | ----------- | ----------- |
 | <img src="https://media.giphy.com/media/3wUWZLX6yLxs9ZpuFm/giphy.gif" width="250">    |   <img src="https://res.cloudinary.com/rmontufar1792/image/upload/v1619558600/github/designs.png" width="250">     |
 
-| [Products App](https://github.com/deus-magna/flutter-products-app)      | [Rotom Phone](https://github.com/deus-magna/rotom_phone) |
+| [GGT Store (Private)](https://github.com/deus-magna/)      | [Rotom Phone](https://github.com/deus-magna/rotom_phone) |
 | ----------- | ----------- |
-| <img src="https://res.cloudinary.com/rmontufar1792/image/upload/v1619559122/github/products.png" width="250">    |   <img src="https://media.giphy.com/media/yiWCl9U98dMo9024bV/giphy.gif" width="250">     |
+| <img src="https://media.giphy.com/media/NwUarEu4NtVNRTRsUF/giphy.gif" width="250">    |   <img src="https://media.giphy.com/media/yiWCl9U98dMo9024bV/giphy.gif" width="250">     |
 
 
 <!--

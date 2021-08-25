@@ -6,13 +6,6 @@ My name is Renato Montufar, I am a mobile developer, I love UI/UX and I am learn
 - [GitHub](https://github.com/deus-magna/)
 - [Twitter](https://twitter.com/deus_magna)
 - [Instagram](https://www.instagram.com/deus_magna/) 
-
-## 🏴‍☠️ View in another language
-<p align="center">
-    ·
-    <a href="/docs/readme_es.md">Spanish</a>
-    ·
-  </p>
     
 ## 👀 My GutHub Stats
 

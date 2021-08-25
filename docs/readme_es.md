@@ -1,6 +1,6 @@
-### Hi there 👋
-## 👨🏻‍💻 About me
-My name is Renato Montufar, I am a mobile developer, I love UI/UX and I am learning new things all the time. Feel free to contact me! 😀
+### Hola 👋
+## 👨🏻‍💻 Sobre mi
+Me llamo Renato Montufar, Soy un desarrollador móvil, Amo el UI/UX y me gusta aprender cosas nuevas. No dudes en ponerte en contacto conmigo! 😀
 
 - [LinkedIn](https://www.linkedin.com/in/deus-magna/)
 - [GitHub](https://github.com/deus-magna/)
@@ -21,16 +21,17 @@ My name is Renato Montufar, I am a mobile developer, I love UI/UX and I am learn
   </center>
 </div>
 
-## 🤝 Contributing
+## 🤝 Contribuciones
 
-Contributions, issues and feature requests are welcome!
+Contribuciones, errores y solicitud de nuevas caracteristicas son bienvenidos!
 
-## 🤔 Questions?
-You can find me on [![Twitter](https://img.shields.io/twitter/follow/deus_magna?style=social)](https://twitter.com/burhanrashid52) [![Instagram](https://img.shields.io/badge/Instagram-%40deus__magna-orange)](https://www.instagram.com/deus_magna/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%40deus--magna-blue)](https://www.linkedin.com/in/deus-magna/)
 
-## Show your support
+## 🤔 ¿Preguntas?
+Pues encontrarme en [![Twitter](https://img.shields.io/twitter/follow/deus_magna?style=social)](https://twitter.com/burhanrashid52) [![Instagram](https://img.shields.io/badge/Instagram-%40deus__magna-orange)](https://www.instagram.com/deus_magna/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%40deus--magna-blue)](https://www.linkedin.com/in/deus-magna/)
 
-Give a ⭐️ if some project helped you!
+## Muestra tu apoyo
+
+Dale ⭐️ si algun repositorio te ayuda!
 
 ## 📲 💻 🖥 My work
 

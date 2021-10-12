@@ -62,4 +62,17 @@ Give a ⭐️ if some project helped you!
 | <img src="https://media.giphy.com/media/rU3WBlCe93JuzJNozS/giphy.gif" width="250">    |   <img src="https://media.giphy.com/media/hTBgJyKgn3Lsg840jy/giphy.gif" width="250">     |
 
 ## 🙊 🙈 🙉 Talks
-[Flutter Guatemala - Rest API y manejo de errores con Flutter](https://youtu.be/fAbySSpkuvA)
+
+[GitHub - Introduccion a la comunidad de Git y GitHub en Español](https://youtu.be/lbV93FwHq5s)  
+
+[DevTeam 504 - Clean Architecture in Flutter](https://youtu.be/Ger3Oh9qE-w)  
+
+[Flutter Honduras - Dependency Injection in Flutter](https://youtu.be/DlgQq1jiChM?t=3727)  
+
+[Flutter Guatemala - Rest API y manejo de errores con Flutter](https://youtu.be/fAbySSpkuvA)  
+
+[MOBILE CR DEVELOPERS - Introudcción a Flutter](https://youtu.be/uJSBoyeGoKo)  
+
+[Universidad San Carlos de Guatemala - Conferencia IEEE](https://youtu.be/8YX1TKhxE5I)  
+
+

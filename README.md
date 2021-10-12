@@ -29,7 +29,7 @@ My name is Renato Montufar, I am a mobile developer, I love UI/UX and I am learn
 </div>
 
 ## 🤝 Contributing
-
+![](https://visitor-badge.glitch.me/badge?page_id=deus-magna.deus-magna&right_color=red)  
 Contributions, issues and feature requests are welcome!
 
 ## 🤔 Questions?

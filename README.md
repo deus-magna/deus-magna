@@ -61,6 +61,10 @@ Give a ⭐️ if some project helped you!
 | ----------- | ----------- |
 | <img src="https://media.giphy.com/media/rU3WBlCe93JuzJNozS/giphy.gif" width="250">    |   <img src="https://media.giphy.com/media/hTBgJyKgn3Lsg840jy/giphy.gif" width="250">     |
 
+| [Animations](https://github.com/deus-magna/animations)      | [Widget of the week](https://github.com/deus-magna/flutter-widget-of-the-week) |
+| ----------- | ----------- |
+| <img src="https://media.giphy.com/media/Zq5fCrbiJYV83iVutM/giphy.gif" width="250">    |   <img src="https://media.giphy.com/media/hTBgJyKgn3Lsg840jy/giphy.gif" width="250">     |
+
 ## 🙊 🙈 🙉 Talks
 
 [GitHub - Introduccion a la comunidad de Git y GitHub en Español](https://youtu.be/lbV93FwHq5s)  

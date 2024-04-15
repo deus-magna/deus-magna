@@ -47,7 +47,7 @@ Give a ⭐️ if some project helped you!
 
 | [Peliculas-app](https://github.com/deus-magna/peliculas-app)      |  [Slide the Space game](https://github.com/deus-magna/slide_puzzle_game) |
 | ----------- | ----------- |
-| <img src="assets/peliculas.jpg" width="250">    | <img src="[assets/api_practice.png](https://res.cloudinary.com/rmontufar1792/image/upload/v1713214345/github/npgh1niuibeowlackqn1.png)" width="250">       |
+| <img src="assets/peliculas.jpg" width="250">    | <img src="https://res.cloudinary.com/rmontufar1792/image/upload/v1713214345/github/npgh1niuibeowlackqn1.png" width="250">       |
 
 | [Batman SigIn](https://github.com/deus-magna/batman_signin)      | [Flutter Designs](https://github.com/deus-magna/flutter-designs) |
 | ----------- | ----------- |

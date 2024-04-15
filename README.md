@@ -45,9 +45,9 @@ Give a ⭐️ if some project helped you!
 | ----------- | ----------- |
 | <img src="assets/supercines.gif" width="250">    | <img src="assets/ironman.gif" width="250">       |
 
-| [Peliculas-app](https://github.com/deus-magna/peliculas-app)      | [API Practice](https://github.com/deus-magna/restapi_practice) |
+| [Peliculas-app](https://github.com/deus-magna/peliculas-app)      |  [Slide the Space game](https://github.com/deus-magna/slide_puzzle_game) |
 | ----------- | ----------- |
-| <img src="assets/peliculas.jpg" width="250">    | <img src="assets/api_practice.png" width="250">       |
+| <img src="assets/peliculas.jpg" width="250">    | <img src="[assets/api_practice.png](https://res.cloudinary.com/rmontufar1792/image/upload/v1713214345/github/npgh1niuibeowlackqn1.png)" width="250">       |
 
 | [Batman SigIn](https://github.com/deus-magna/batman_signin)      | [Flutter Designs](https://github.com/deus-magna/flutter-designs) |
 | ----------- | ----------- |
@@ -61,9 +61,9 @@ Give a ⭐️ if some project helped you!
 | ----------- | ----------- |
 | <img src="https://media.giphy.com/media/rU3WBlCe93JuzJNozS/giphy.gif" width="250">    |   <img src="https://media.giphy.com/media/hTBgJyKgn3Lsg840jy/giphy.gif" width="250">     |
 
-| [Animations](https://github.com/deus-magna/animations)      | [Slide the Space game](https://github.com/deus-magna/slide_puzzle_game) |
+| [Animations](https://github.com/deus-magna/animations)      | [API Practice](https://github.com/deus-magna/restapi_practice)  |
 | ----------- | ----------- |
-| <img src="https://media.giphy.com/media/Zq5fCrbiJYV83iVutM/giphy.gif" width="250">    |   <img src="https://media.giphy.com/media/hTBgJyKgn3Lsg840jy/giphy.gif" width="250">     |
+| <img src="https://media.giphy.com/media/Zq5fCrbiJYV83iVutM/giphy.gif" width="250">    |    <img src="assets/api_practice.png" width="250"> |
 
 ## 🙊 🙈 🙉 Talks
 

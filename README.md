@@ -79,6 +79,12 @@ Give a ⭐️ if some project helped you!
 
 [MOBILE CR DEVELOPERS - Introudcción a Flutter](https://youtu.be/uJSBoyeGoKo)  
 
-[Universidad San Carlos de Guatemala - Conferencia IEEE](https://youtu.be/8YX1TKhxE5I)  
+[Universidad San Carlos de Guatemala - Conferencia IEEE](https://youtu.be/8YX1TKhxE5I)
+
+[Flutter Guatemala - Introducción al Testing](https://www.youtube.com/live/hM2RwINfcrQ?si=AGr8CYbvU2HSSBgF )
+
+[Flutter Guatemala - Responsive Design con Flutter](https://www.youtube.com/live/-_apNANuzKU?si=ec-u_O0dWISWMSTy )
+
+[Flutter Guatemala - Flutter 3.13 ¿Qué hay de nuevo?](https://www.youtube.com/live/OBorO2eNDAU?si=gGTf3RC0pHgSoOaE)
 
 
